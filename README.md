@@ -11,8 +11,4 @@ b-ui = { path = "C:/path/to/B-UI" }
 
 Replace `C:/path/to/B-UI` with your local B-UI folder containing `Cargo.toml`. Then use `use b_ui::*;` in Rust and run `cargo build`.
 
-## Preview
-
-Generated sNip example render:
-
-![sNip example](previews/snip.png)
+![B-UI menu](previews/yellow-menu.png)
